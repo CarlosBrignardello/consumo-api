@@ -1,0 +1,22 @@
+body{
+  background-color: #f8f8f8 !important
+}
+.container{
+  background-color: #f8f8f8
+}
+.poke-container{
+  background-color: white !important;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  box-shadow: 1px 1px 5px grey;
+}
+img{
+  width: 100%;
+}
+p{
+  color: black;
+}
